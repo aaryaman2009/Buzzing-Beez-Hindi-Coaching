@@ -1,0 +1,143 @@
+
+
+.link{
+    display: inline;
+    padding: 10px;
+    font-size: 20px;
+    }
+
+    .navbarmain{
+        position: fixed;
+        z-index: 999;
+        width: 100%;
+        margin-right: 10px;
+        top: 0px;
+        left: 5px;
+        }
+
+    #main_h{
+        
+        text-align: center;
+        font-size: 50px;
+        color: red;
+    }
+
+    #img_logo{
+        width: 500px;
+        height: 200px;
+    }
+
+    #book_img{
+        width: 500px;
+        height: 250px;
+        margin-bottom: 20px;
+    }
+
+    .div_mom{
+        margin-top: 100px;
+    }
+
+    .main_img{
+        border: 3px green ridge;
+        }
+
+    body{
+        background-color:bisque;
+        border: 5px blue solid;
+        padding-top: 100px;
+        
+    }
+
+    #info{
+        padding-top: 30px;
+        color: magenta;
+        font-size: 20px;
+        font-family: cursive;
+    }
+
+    .link:hover{
+        background-color: gray;
+        font-size: 25px;
+    }
+
+   .hh3{
+       font-size: 35px;
+       text-align: center;
+       color: red;
+   }
+
+   #hh2{
+       text-align: center;
+       margin-top: 40px;
+       color: black;
+   }
+
+   #body_2{
+       background-color: lightblue;
+   }
+
+   #profile{
+    float: right;
+   }
+    
+   .sc{
+       text-align: left;
+       line-height: 2;
+   }
+
+   .div_drop{
+       font-size: 25px;
+       border-radius: 40px;
+       margin: 20px;
+       padding: 5px;
+       color: chocolate;
+       background-color:midnightblue;
+       font-weight: bold;
+   }
+
+  .reviews{
+      font-size: 15px;
+      font-style: italic;
+      border: 5px red ridge;
+      padding: 10px;
+      margin-top: 20px;
+  }
+
+  #profile1{
+      margin-top: 100px;
+  }
+
+.momimg{
+    width: 300px;
+    height: 350px;
+} 
+
+.textmom{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+    line-height: 2;
+}
+
+.psych{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.text{
+    margin-top: 20px;
+    font-size: 20px;
+
+}
+
+#review8{
+    margin-bottom: 20px;
+}
+
+.link1 li{
+    margin-left: 10px;
+}
+
+  
+
+
